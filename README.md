@@ -12,7 +12,7 @@
         - Questions
 
         ## Installation
-        1. Clone the repository using the following command: git clone https://github.com/your-username/README-Wizard.git 
+        1. Clone the repository using the following command: git clone https://github.com/your-username/README-Wizard.git and follow along with the video, which you can find here: https://app.screencastify.com/v3/watch/UkaOgwKamqxk3SzsPf9H
         2. Navigate to the project directory using cd README-Wizard 
         3. Install dependencies using the command npm install 
         4. Start the app by running node index.js 
